@@ -8,6 +8,8 @@ var multer = require("multer");
 
 var routes = require('./routes/index');
 
+//Comienzo...
+
 var app = express();
 var router = express.Router();
 
